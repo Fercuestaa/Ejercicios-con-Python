@@ -1,0 +1,10 @@
+print("¿Como es tu nombre?")
+nombre=input()
+print("¿Que edad tienes")
+edad=input()
+print("¿En que ciudad vives?")
+ciudad=input()
+print("¿Cuanto mides?")
+estatura=input()
+
+print("Bienvenido a TalentoTech", nombre)
